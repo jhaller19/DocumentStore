@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8c96752-9619-4c1c-a3d9-323a33576e0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/impl/MinHeapImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/impl/MinHeapImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/impl/TrieImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/impl/TrieImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/stage5/impl/DocumentStoreImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/stage5/impl/DocumentStoreImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="stage5" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b94icjRjqYbcWMoPwrdi7XKMoN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage5/impl" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Final" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.yu.cs.com1320.project.stage5.impl" />
+      <recent name="edu.yu.cs.com1320.project.impl" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="edu.yu.cs.com1320.project.impl" />
+      <recent name="edu.yu.cs.com1320.project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DocumentStoreImplTest">
+    <configuration name="DocumentStoreImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stage5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage5.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentStoreStage5Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stage5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage5.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreStage5Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentStoreTrieMethodTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stage5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage5.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreTrieMethodTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentStoreTrieMethodTest.putNullTrie" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stage5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage5.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreTrieMethodTest" />
+      <option name="METHOD_NAME" value="putNullTrie" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentStoreUndoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stage5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage5.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreUndoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DocumentStoreImplTest" />
+        <item itemvalue="JUnit.DocumentStoreUndoTest" />
+        <item itemvalue="JUnit.DocumentStoreTrieMethodTest" />
+        <item itemvalue="JUnit.DocumentStoreTrieMethodTest.putNullTrie" />
+        <item itemvalue="JUnit.DocumentStoreStage5Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8c96752-9619-4c1c-a3d9-323a33576e0b" name="Default Changelist" comment="" />
+      <created>1588031103127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588031103127</updated>
+      <workItem from="1588031104947" duration="743000" />
+      <workItem from="1588031893252" duration="37000" />
+      <workItem from="1588039175125" duration="671000" />
+      <workItem from="1588041260298" duration="3115000" />
+      <workItem from="1588106922611" duration="955000" />
+      <workItem from="1588107895605" duration="577000" />
+      <workItem from="1588108488959" duration="145000" />
+      <workItem from="1588108717250" duration="56000" />
+      <workItem from="1588108843829" duration="491000" />
+      <workItem from="1588109351333" duration="7625000" />
+      <workItem from="1588130373546" duration="1708000" />
+      <workItem from="1588179504129" duration="12971000" />
+      <workItem from="1588198696455" duration="2974000" />
+      <workItem from="1588202479730" duration="646000" />
+      <workItem from="1588210365735" duration="3110000" />
+      <workItem from="1588254509238" duration="183000" />
+      <workItem from="1588265713427" duration="600000" />
+      <workItem from="1588280407330" duration="1375000" />
+      <workItem from="1588297460501" duration="5000000" />
+      <workItem from="1588343360257" duration="4773000" />
+      <workItem from="1588364749955" duration="5123000" />
+      <workItem from="1588470256834" duration="9023000" />
+      <workItem from="1588557692118" duration="409000" />
+      <workItem from="1588617710991" duration="5601000" />
+      <workItem from="1588788245467" duration="1660000" />
+      <workItem from="1588794771358" duration="2715000" />
+      <workItem from="1588860423117" duration="16167000" />
+      <workItem from="1589214813327" duration="290000" />
+      <workItem from="1589724786460" duration="20310000" />
+      <workItem from="1589810284986" duration="9881000" />
+      <workItem from="1589821093406" duration="1126000" />
+      <workItem from="1589825911613" duration="59000" />
+      <workItem from="1589835872798" duration="4156000" />
+      <workItem from="1589896034974" duration="1528000" />
+      <workItem from="1589900964946" duration="2336000" />
+      <workItem from="1589918343217" duration="2635000" />
+      <workItem from="1589927678921" duration="416000" />
+      <workItem from="1589981117636" duration="11395000" />
+      <workItem from="1589994247677" duration="1414000" />
+      <workItem from="1589995888688" duration="1759000" />
+      <workItem from="1590002687651" duration="14000" />
+      <workItem from="1590004930220" duration="150000" />
+      <workItem from="1590016397760" duration="70000" />
+      <workItem from="1590029352151" duration="1064000" />
+      <workItem from="1590085531568" duration="198000" />
+      <workItem from="1590086470670" duration="13000" />
+      <workItem from="1590094478390" duration="55000" />
+      <workItem from="1590100488227" duration="287000" />
+      <workItem from="1590154055959" duration="1052000" />
+      <workItem from="1590165425974" duration="142000" />
+      <workItem from="1590168031908" duration="35000" />
+      <workItem from="1590169122968" duration="20000" />
+      <workItem from="1590173819919" duration="258000" />
+      <workItem from="1590174423818" duration="493000" />
+      <workItem from="1590179402419" duration="127000" />
+      <workItem from="1590180837294" duration="74000" />
+      <workItem from="1590282903387" duration="3291000" />
+      <workItem from="1590288850916" duration="692000" />
+      <workItem from="1590290189894" duration="542000" />
+      <workItem from="1590326605077" duration="1013000" />
+      <workItem from="1590363995727" duration="441000" />
+      <workItem from="1590366944094" duration="21000" />
+      <workItem from="1590706585555" duration="3353000" />
+      <workItem from="1590889010128" duration="3317000" />
+      <workItem from="1591905568952" duration="1175000" />
+      <workItem from="1591980322880" duration="4640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="97" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1589811775244">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="97" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1589811775244" />
+    <state x="799" y="102" key="#com.intellij.ide.util.MemberChooser" timestamp="1589214954692">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="799" y="102" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1589214954692" />
+    <state x="272" y="31" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1588031129902">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="272" y="31" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680@0.0.1280.680" timestamp="1588031129902" />
+    <state x="490" y="231" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1588031184969">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="490" y="231" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1588031184969" />
+    <state x="420" y="201" width="453" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590085720706">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="201" width="453" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1590085720706" />
+    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1590366962848">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590366962848" />
+    <state width="1237" height="162" key="GridCell.Tab.0.bottom" timestamp="1591985010673">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591985010673" />
+    <state width="1237" height="162" key="GridCell.Tab.0.center" timestamp="1591985010673">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591985010673" />
+    <state width="1237" height="162" key="GridCell.Tab.0.left" timestamp="1591985010673">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591985010673" />
+    <state width="1237" height="162" key="GridCell.Tab.0.right" timestamp="1591985010673">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591985010673" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1591984693865">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591984693865" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1591984693865">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1591984693865" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1591984693865">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1591984693865" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1591984693865">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1591984693865" />
+    <state width="1237" height="204" key="GridCell.Tab.2.bottom" timestamp="1591984693865">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591984693865" />
+    <state width="1237" height="204" key="GridCell.Tab.2.center" timestamp="1591984693865">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1591984693865" />
+    <state width="1237" height="204" key="GridCell.Tab.2.left" timestamp="1591984693865">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1591984693865" />
+    <state width="1237" height="204" key="GridCell.Tab.2.right" timestamp="1591984693865">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1591984693865" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1588031751966">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1588031751966" />
+    <state x="452" y="120" key="chooseDestDirectoryDialog" timestamp="1589984476112">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="452" y="120" key="chooseDestDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1589984476112" />
+    <state x="412" y="45" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590100606373">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="45" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1590100606373" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1589839580974">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1589839580974" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1589820275584">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1589820275584" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/impl/WrongBTree.java</url>
+          <line>426</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="bytesUsed" language="JAVA" />
+        <watch expression="store" language="JAVA" />
+        <watch expression="heap" language="JAVA" />
+        <watch expression="documentsUsed" language="JAVA" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="store" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/stage5$DocumentStoreTrieMethodTest_putNullTrie.ic" NAME="DocumentStoreTrieMethodTest.putNullTrie Coverage Results" MODIFIED="1591984566370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.yu.cs.com1320.project.stage5.impl.*</FILTER>
+    </SUITE>
+  </component>
+</project>
