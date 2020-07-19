@@ -1,6 +1,7 @@
 # DocumentStore
 
 Data Structures course project (Spring 2020):  
+
 • Developed an application that takes in text or pdf files and stores them in memory.  
 • Using PDF Box library, the application can return any text document as a pdf or vice versa.  
 • Programmed to keep a dictionary lookup which maps words/prefixes to all documents containing that word/prefix.  
