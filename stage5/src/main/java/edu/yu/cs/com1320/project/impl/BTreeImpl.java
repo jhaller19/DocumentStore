@@ -19,7 +19,7 @@ public class BTreeImpl<Key extends Comparable<Key>, Value> implements BTree<Key,
 	private PersistenceManager<Key, Value> pm;
 
 
-	public BTreeImpl(){ //NOT SURE
+	public BTreeImpl(){ 
 		this.root = new Node(0);
 		this.leftMostExternalNode = this.root;
 
